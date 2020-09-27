@@ -1,0 +1,35 @@
+# Site settings
+name: eacabbi.github.io
+title: Edoardo Acabbi
+description: Assistant Professor at UC3M.
+repo: https://github.com/ildodo12/website
+url: https://eacabbi.github.io
+
+# Personal info
+author: Edoardo Maria Acabbi
+first_name: Edoardo Maria
+last_name: Acabbi
+university: Universidad Carlos III de Madrid
+department: Depto. de Economía de la Empresa
+address: C/Madrid 126, 28903 Getafe, ES
+office: Normante 7.1.01B
+email: edoardomaria.acabbi@uc3m.es
+
+# Icon settings
+doi_icon: ai ai-doi
+doi_title: DOI
+data_icon: ai ai-open-data
+data_title: Data
+pdf_icon: fas fa-file-pdf
+pdf_title: PDF
+course_icon: fas fa-info-circle
+course_title: Info
+moodle_icon: ai ai-moodle-square
+moodle_title: Moodle
+link_icon: fas fa-external-link-square-alt
+link_title: Link
+
+# Build settings
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap

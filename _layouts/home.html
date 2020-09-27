@@ -1,0 +1,17 @@
+
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>{{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="pagebox">
+      {% include cvpane.html %}
+      <section>{{ content }}</section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

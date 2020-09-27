@@ -1,0 +1,175 @@
+/* Page settings */
+
+body {
+  font-family: "Ubuntu";
+  font-weight: 400;
+  font-size: 16pt;
+  line-height: 1.5;
+  margin: 0;
+}
+
+a:link, a:visited {
+  color: #001489;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color: black;
+  text-decoration: underline;
+}
+
+h1{
+  font-family: "Ubuntu";
+  font-weight: 700;
+  font-size: 32pt;
+}
+
+h2{
+  font-weight: 500;
+  font-size: 24pt;
+  margin-bottom: -8pt;
+}
+
+h3{
+  font-family: "Ubuntu";
+  text-transform: lowercase;
+  font-weight: 400;
+  font-size: 18pt;
+  margin-bottom: -16pt;
+}
+
+.pagebox {
+  margin: auto;
+  max-width: 800px;
+}
+
+.container {
+  display: flex;
+}
+
+.section {
+  flex: auto;
+}
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.avatar{
+  padding-top: 30px;
+  width: 75%;
+}
+
+#icon{
+  text-decoration: none;
+}
+
+/* Header settings */
+
+header {
+  border-bottom: 1px solid gray;
+  border-top: 3px solid black;
+  padding: 10px;
+}
+
+#titlebar{
+  color: black;
+  font-size: 24pt;
+}
+
+#titlebar:hover{
+  border-bottom: 12px solid #001489;
+  text-decoration: none;
+}
+
+#extlink{
+  font-size: 24pt;
+}
+
+#extlink:hover{
+  border-bottom: 12px solid lightgray;
+}
+
+/* Footer settings */
+
+footer {
+  border-top: 1px solid gray;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.footnote {
+  font-size: 14pt;
+  line-height: 1.2;
+}
+
+/* Small screen settings */
+
+@media only screen and (max-width: 800px) {
+  .pagebox {
+    margin: 0 5%;
+  }
+  .container {
+    flex-direction: column;
+  }
+  .left {
+    text-align: center !important;
+  }
+  .right {
+    text-align: center !important;
+  }
+  .avatar {
+    padding: 0;
+  }
+  #titlebar:hover {
+    padding: 0 10px;
+    border-bottom: 0;
+    background-color: lightgray;
+  }
+  #extlink:hover {
+    padding: 0 10px;
+    border-bottom: 0;
+    background-color: lightgray;
+  }
+  .footnote {
+    padding-bottom: 24px;
+  }
+}
+
+/* Print settings */
+
+@media only print {
+  body {
+    font-size: 12pt;
+  }
+  a:link, a:visited, a:active {
+    color: black;
+    text-decoration: none;
+  }
+  h1{
+    font-size: 24pt;
+  }
+  h2{
+    font-size: 18pt;
+    margin-bottom: -6pt;
+  }
+  h3{
+    font-size: 14pt;
+    margin-bottom: -12pt;
+  }
+  header {
+    border: 0;
+    padding: 0;
+  }
+  .avatar, #extlink, footer, #icon {
+    display: none;
+  }
+}
