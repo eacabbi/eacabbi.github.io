@@ -10,7 +10,9 @@
     {% include header.html %}
     <div class="pagebox">
       {% include cvpane.html %}
-      <section>{{ content }}</section>
+      <div class="pagebox">
+        <section>{{ content }}</section>
+      </div>
     </div>
     {% include footer.html %}
   </body>

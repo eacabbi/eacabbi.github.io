@@ -3,7 +3,7 @@
 body {
   font-family: "Ubuntu";
   font-weight: 400;
-  font-size: 16pt;
+  font-size: 14pt;
   line-height: 1.5;
   margin: 0;
 }
@@ -40,7 +40,7 @@ h3{
 
 .pagebox {
   margin: auto;
-  max-width: 800px;
+  max-width: 825px;
 }
 
 .container {
@@ -48,7 +48,7 @@ h3{
 }
 
 .section {
-  flex: auto;
+  flex: 1;
 }
 
 .left {
@@ -115,7 +115,7 @@ footer {
 
 /* Small screen settings */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
   .pagebox {
     margin: 0 5%;
   }
