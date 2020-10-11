@@ -2,6 +2,8 @@
 layout: home
 ---
 
+## CV <a href="{{ site.baseurl }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
+
 ## Academic positions
 
 Assistant Professor, Universidad Carlos III de Madrid (Sep. 2020 - )  
@@ -11,6 +13,8 @@ Assistant Professor, Universidad Carlos III de Madrid (Sep. 2020 - )
 PhD.D. in Business Economics, Harvard University (Sep. 2014 - May 2020)  
 M.Sc. in Economics and Social Sciences, Bocconi University (Sep. 2010 - April 2013)  
 B.A. in International Economics and Management, Bocconi University (Sep. 2007 - Oct. 2010)  
+
+---
 
 ## Working Papers
 
