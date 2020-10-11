@@ -10,7 +10,7 @@ Assistant Professor, Universidad Carlos III de Madrid (Sep. 2020 - )
 
 ## Education
 
-PhD.D. in Business Economics, Harvard University (Sep. 2014 - May 2020)  
+Ph.D. in Business Economics, Harvard University (Sep. 2014 - May 2020)  
 M.Sc. in Economics and Social Sciences, Bocconi University (Sep. 2010 - April 2013)  
 B.A. in International Economics and Management, Bocconi University (Sep. 2007 - Oct. 2010)  
 
