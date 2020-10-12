@@ -18,7 +18,7 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 
 ## Working Papers
 
-Acabbi, Edoardo M., Panetti, Ettore and Sforza, Alessandro (2020). **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.baseurl }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>  
+Acabbi, Edoardo M., Panetti, Ettore and Sforza, Alessandro (2020). **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.baseurl }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br/> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub>
 <br/> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 
