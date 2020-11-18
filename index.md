@@ -31,5 +31,7 @@ Acabbi, Edoardo M., Alati, Andrea and Mazzone, Luca (2020). **Leveraging on Huma
 
 Bertheau, Antoine, Acabbi, Edoardo M., Gulyas, Andreas, Lombardi, Stefano, Barcelo, Cristina and Saggio, Raffaele (2020). **The Costs of Job Loss Across Countries: Evidence and Explanations.**
 
+Acabbi, Edoardo M. and Alati, Andrea (2020). **Defusing Leverage: Liquidity Management and Labor Contracts.** <br/><sub>(Part of the VistInps project.)</sub>
+
 
 Website under construction  
