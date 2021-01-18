@@ -39,7 +39,7 @@ This paper introduces a structural model of the labor market that features worke
 </details>
 <br>
 Acabbi, Edoardo M. and Alati, Andrea (2021).  
-**Defusing Leverage: Liquidity Management and Labor Contracts.** <br/><sub>(Part of the VistInps project.)</sub>
+**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br/><sub>(Part of the VistInps project.)</sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
