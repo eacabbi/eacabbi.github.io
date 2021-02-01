@@ -48,11 +48,14 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 
 </details>
 <br>
-## Coming soon
 
-Bertheau, Antoine, Acabbi, Edoardo M., Gulyas, Andreas, Lombardi, Stefano, Barcelo, Cristina and Saggio, Raffaele (2020). **The Costs of Job Loss Across Countries: Evidence and Explanations.**
+Bertheau, Antoine, Acabbi, Edoardo M., Gulyas, Andreas, Lombardi, Stefano, Barcelo, Cristina and Saggio, Raffaele (2021). **The Costs of Job Loss Across Countries: Evidence and Explanations.**
 
+<details>
+<summary><b> Abstract. </b></summary>
 
+This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses (between 20\% and 13\% from the pre-displacement level), while workers in Italy, Spain and Portugal suffer the highest losses (up to 50\%). We next investigate the role of
+changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries (between 50\% and 70\%).
 
-
-Website under construction  
+</details>
+<br>
