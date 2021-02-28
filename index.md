@@ -49,7 +49,7 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 </details>
 <br>
 Bertheau, Antoine, Acabbi, Edoardo M., Gulyas, Andreas, Lombardi, Stefano, Barcelo, Cristina and Saggio, Raffaele (2021).
-**The Costs of Job Loss Across Countries: Evidence and Explanations.**
+<br> **The Costs of Job Loss Across Countries: Evidence and Explanations.**
 
 <details>
 <summary><b> Abstract. </b></summary>
@@ -60,5 +60,5 @@ changes in employer characteristics in explaining these vast cross-country diffe
 </details>
 <br>
 Sforza, Alessandro and Acabbi, Edoardo M. (2021).
-**Shocks and the organisation of the firm: who pays the bill?**
+<br> **Shocks and the organisation of the firm: who pays the bill?**
 <br/> <sub>Under revision, previous draft available <a href="https://drive.google.com/file/d/0ByQcl7SXliImeEpMdGUtS3RGLXM/view"> here </a> </sub>  
