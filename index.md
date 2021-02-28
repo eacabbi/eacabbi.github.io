@@ -34,7 +34,7 @@ Acabbi, Edoardo M., Alati, Andrea and Mazzone, Luca (2021).
 <details>
 <summary><b> Abstract. </b></summary>
 
-This paper introduces a structural model of the labor market that features worker andfirm heterogeneity, where workers accumulate human capital and can search on the job. Wages are determined through an optimal dynamic contract. In our setting downward wage rigidity arises endogenously through limited commitment on the firm side. We show that aggregate fluctuations alter the sorting between workers and firms and distort incentives to accumulate human capital. Insurance incentives and contractual rigidities, together with limits to the intensity of investment in human capital, generate long term costs of business cycle fluctuations. Scarring effects arise in absence of demand externalities or informational frictions, simply as a result of physical constraints to investment and limited commitment problems. Once inefficiently separated, workers that look for employment in bad times direct their search towards less productive ms, which determines additional lasting effects for their working career. Using administrative data on the universe of Italian labor contracts provided by the social security administration (INPS), we provide empirical evidence of these mechanisms.
+This paper introduces a structural model of the labor market that features worker andfirm heterogeneity, where workers accumulate human capital and can search on the job. Wages are determined through an optimal dynamic contract. In our setting downward wage rigidity arises endogenously through limited commitment on the firm side. We show that aggregate fluctuations alter the sorting between workers and firms and distort incentives to accumulate human capital. Insurance incentives and contractual rigidities, together with limits to the intensity of investment in human capital, generate long term costs of business cycle fluctuations. Scarring effects arise in absence of demand externalities or informational frictions, simply as a result of physical constraints to investment and limited commitment problems. Once inefficiently separated, workers that look for employment in bad times direct their search towards less productivems, which determines additional lasting effects for their working career. Using administrative data on the universe of Italian labor contracts provided by the social security administration (INPS), we provide empirical evidence of these mechanisms.
 
 </details>
 <br>
@@ -58,3 +58,5 @@ changes in employer characteristics in explaining these vast cross-country diffe
 
 </details>
 <br>
+
+Sforza, Alessandro and Acabbi, Edoardo M. (2021). **Shocks and the organisation of the firm: who pays the bill?** Under revision, previous draft available <a href="https://drive.google.com/file/d/0ByQcl7SXliImeEpMdGUtS3RGLXM/view"> here </a>   
