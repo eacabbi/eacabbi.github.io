@@ -60,5 +60,5 @@ changes in employer characteristics in explaining these vast cross-country diffe
 </details>
 <br>
 Sforza, Alessandro and Acabbi, Edoardo M. (2021).
-<br> **Shocks and the organisation of the firm: who pays the bill?**
-<br/> <sub>Under revision. Last draft available <a href="{{ site.baseurl }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a></sub>
+<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.baseurl }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br/> <sub>Under revision.</sub>
