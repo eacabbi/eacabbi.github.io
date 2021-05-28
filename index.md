@@ -18,7 +18,7 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 
 ## Working Papers
 
-Acabbi, Edoardo M., Panetti, Ettore and Sforza, Alessandro (2021).  
+Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2021).  
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.baseurl }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> <br/> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> <br/> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 
 <details>
@@ -28,7 +28,7 @@ How do credit shocks affect labor market reallocation and firms’ exit, and how
 
 </details>
 <br>
-Acabbi, Edoardo M., Alati, Andrea and Mazzone, Luca (2021).  
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://sites.google.com/view/lucamazzone/home"> Mazzone, Luca</a> (2021).  
 **Leveraging on Human Capital: Labor Rigidities and Sorting over the Business Cycle.** <br/> <sub>(Draft under revision, old draft available upon request. Part of the VisitInps project.)</sub>
 
 <details>
@@ -38,7 +38,7 @@ This paper introduces a structural model of the labor market that features worke
 
 </details>
 <br>
-Acabbi, Edoardo M. and Alati, Andrea (2021).  
+Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
 **Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br/><sub>(Part of the VistInps project.)</sub>
 
 <details>
@@ -48,7 +48,7 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 
 </details>
 <br>
-Bertheau, Antoine, Acabbi, Edoardo M., Gulyas, Andreas, Lombardi, Stefano, Barcelo, Cristina and Saggio, Raffaele (2021).
+<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>, <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a> and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2021).
 <br> **The Costs of Job Loss Across Countries: Evidence and Explanations.**
 
 <details>
@@ -59,6 +59,6 @@ changes in employer characteristics in explaining these vast cross-country diffe
 
 </details>
 <br>
-Sforza, Alessandro and Acabbi, Edoardo M. (2021).
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2021).
 <br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.baseurl }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br/> <sub>Under revision.</sub>
