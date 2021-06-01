@@ -2,7 +2,7 @@
 layout: home
 ---
 
-## CV <a href="{{ site.baseurl }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
+## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
 ## Academic positions
 
@@ -19,7 +19,7 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 ## Working Papers
 
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2021).  
-**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.baseurl }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> <br/> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> <br/> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
+**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> <br/> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> <br/> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
@@ -60,5 +60,5 @@ changes in employer characteristics in explaining these vast cross-country diffe
 </details>
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2021).
-<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.baseurl }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.url }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br/> <sub>Under revision.</sub>
