@@ -49,15 +49,15 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 </details>
 <br>
 <a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>, <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a> and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2021).
-<br> **The Costs of Job Loss Across Countries: Evidence and Explanations.**
+<br> **The Unequal Cost of Job Loss across Countries.** <a href="{{ site.url }}/docs/JobDisplacement_AcrossEurope.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 
 <details>
 <summary><b> Abstract. </b></summary>
 
-This paper documents the consequences of job displacement across seven European countries. The analysis builds on a harmonized European matched employer-employee dataset that combines high-quality administrative registers from France, Austria, Denmark, Sweden, Spain, Italy, and Portugal spanning three decades (1990s-2010s). Event study estimates show that the earnings losses following a displacement event are vastly different across Europe. Workers in Denmark and Sweden suffer the lowest earnings losses (between 20% and 13% from the pre-displacement level), while workers in Italy, Spain and Portugal suffer the highest losses (up to 55%). We next investigate the role of
-changes in employer characteristics in explaining these vast cross-country differences. We find that moving from a high-paying to a lower paying employer explains a surprisingly similar share of the earnings losses across all European countries (between 50% and 70 %).
+We document the consequences of losing a job across countries using a harmonized research design. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in-between. Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of within-country wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
 
 </details>
+
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2021).
 <br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.url }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
