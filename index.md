@@ -29,7 +29,7 @@ How do credit shocks affect labor market reallocation and firms’ exit, and how
 </details>
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://sites.google.com/view/lucamazzone/home"> Mazzone, Luca</a> (2021).  
-**Leveraging on Human Capital: Labor Rigidities and Sorting over the Business Cycle.** <br/> <sub>(Draft under revision, old draft available upon request. Part of the VisitInps project.)</sub>
+**A Sorting Labor Market Model of Scarring and Hysteresis** <br/> <sub>(Draft under revision, old draft available upon request.)</sub> <br/> <sub> Part of the VisitInps project. </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
@@ -39,7 +39,7 @@ This paper introduces a structural model of the labor market that features worke
 </details>
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
-**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br/><sub>(Part of the VistInps project.)</sub>
+**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br/><sub>Part of the VistInps project.</sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
