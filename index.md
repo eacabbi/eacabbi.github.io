@@ -50,6 +50,7 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 <br>
 <a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>, <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a> and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2022).
 <br> **The Unequal Cost of Job Loss across Countries.** <a href="{{ site.url }}/docs/JobDisplacement_AcrossEurope.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br/> <sub> NBER working paper version <a href="https://www.nber.org/papers/w29727" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
+<br/> <sub> Media Coverage: <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEu.org</a> in English, <a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">LaVoce.info</a> in Italian. </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
