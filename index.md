@@ -31,7 +31,8 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 
 We document the consequences of losing a job across countries using a harmonized research design. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in-between. Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of withincountry wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
 </details>
-<br>
+
+---
 ## Working Papers
 
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2021).  
