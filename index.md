@@ -36,7 +36,8 @@ We document the consequences of losing a job across countries using a harmonized
 ## Working Papers
 
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2021).  
-**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
+**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
+<br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
@@ -46,7 +47,8 @@ How do credit shocks affect labor market reallocation and firms’ exit, and how
 </details>
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://sites.google.com/view/lucamazzone/home"> Mazzone, Luca</a> (2022).  
-**A Labor Market Sorting Model of Scarring and Hysteresis.** <br> <sub>(Draft under revision, old draft available upon request.)</sub> <br> <sub> Part of the VisitInps project. </sub>
+**A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub>(Draft under revision, old draft available upon request.)</sub> <br> <sub> Part of the VisitInps project. </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
@@ -56,7 +58,8 @@ What are the long-run consequences of business cycle fluctuations for the skill 
 </details>
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
-**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br><sub>Part of the VistInps project.</sub>
+**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br><sub>Part of the VistInps project.</sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
