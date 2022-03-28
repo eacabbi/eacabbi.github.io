@@ -48,7 +48,7 @@ How do credit shocks affect labor market reallocation and firms’ exit, and how
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://sites.google.com/view/lucamazzone/home"> Mazzone, Luca</a> (2022).  
 **A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub>(Draft under revision, old draft available upon request.)</sub> <br> <sub> Part of the VisitInps project. </sub>
+<br> <sub> Part of the VisitInps project. </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
