@@ -38,6 +38,7 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
 <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
+<br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
