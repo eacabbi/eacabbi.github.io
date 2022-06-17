@@ -34,8 +34,8 @@ We document the consequences of losing a job across countries using a harmonized
 ---
 ## Working Papers
 
-Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2021).  
-**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/eacabbi_jmp.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
+Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2022).  
+**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS_credit.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
 <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 <br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
@@ -43,7 +43,7 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 <details>
 <summary><b> Abstract. </b></summary>
 
-How do credit shocks affect labor market reallocation and firms’ exit, and how does their propagation depend on labor rigidities at the firm level? To answer these questions, we match administrative data on worker, firms, banks and credit relationships in Portugal, and conduct an event study of the interbank market freeze at the end of 2008. Consistent with other empirical literature, we provide novel evidence that the credit shock had significant effects on employment and assets dynamics and firms’ survival. These findings are entirely driven by the interaction of the credit shock with labor market frictions, determined by rigidities in labor costs and exposure to working-capital financing, which we label “labor-as-leverage” and “labor-as-investment” financial channels. The credit shock explains about 29 percent of the employment loss among large Portuguese firms between 2008 and 2013, and contributes to productivity losses due to increased labor misallocation.
+We study how labor rigidities affect firms' responses to financial crises. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, firms which derive greater value added from labor within their industries are more exposed to liquidity disruptions: when hit by a short-term credit supply shock they reduce more their workforce, assets and have a greater probability of exit. Second, specialized high-skilled workers, who require on-the-job training, are a major source of labor rigidity. When faced with a credit shortage, productive firms with a high-skilled labor force have trouble financing their wage bills, and are thus more exposed to the shock than their competitors. Third, given labor costs exposure, productivity does not attenuate the effects of the shock. Our findings highlight that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
 
 </details>
 <br>
