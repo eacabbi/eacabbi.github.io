@@ -2,6 +2,7 @@
 layout: home
 ---
 
+I am going to be visiting the Economics Department at Northwestern University this Fall. Please get in touch if you want to meet!
 ## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
 ## Academic positions
