@@ -7,7 +7,7 @@ layout: home
 ## Academic positions
 
 Assistant Professor, Universidad Carlos III de Madrid (Sep. 2020 - )  
-
+Visiting Professor, Northwestern University (Fall 2022)
 ## Education
 
 Ph.D. in Business Economics, Harvard University (Sep. 2014 - May 2020)  
