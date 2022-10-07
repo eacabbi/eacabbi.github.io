@@ -70,6 +70,10 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 
 </details>
 <br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2021).
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2022).
 <br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="https://drive.google.com/file/d/0ByQcl7SXliImeEpMdGUtS3RGLXM/view?resourcekey=0-Mykokld7CQ4laxKSZWXmow" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub>Under revision.</sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+What happens to firms’ organizational structure when they are hit by a negative shock? By matching employer-employee data with firm loans and bank balance sheets, we study firms’ reactions to a credit shock–the global financial crisis—and compare it to a trade shock—the entry of China in the WTO. When hit by a credit supply shock, firms reduce employment of higher-skilled workers more than lower-skilled production workers, while no adjustment is found on the wages. In contrast, a trade shock affects the hierarchy of the firm from the bottom to the top: firms rescale the organization and reduce employment at all levels. Results support the existence of heterogenous complementarities between working capital and skills along the hierarchy of the firm. Abstracting from general equilibrium effects, we find that firms’ organization is a key channel in the transmission of credit shocks to the real economy.
+</details>
