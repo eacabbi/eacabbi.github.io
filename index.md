@@ -71,5 +71,5 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 </details>
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2021).
-<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.url }}/docs/SA_mar21.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="https://drive.google.com/file/d/0ByQcl7SXliImeEpMdGUtS3RGLXM/view?resourcekey=0-Mykokld7CQ4laxKSZWXmow" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub>Under revision.</sub>
