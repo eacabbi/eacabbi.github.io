@@ -15,3 +15,6 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.7"
+gem "addressable", ">= 2.8.0"
+gem "rexml", ">= 3.2.5"
+gem "kramdown", ">= 2.3.1"
