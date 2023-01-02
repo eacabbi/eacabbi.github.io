@@ -19,7 +19,7 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 
 ## Publications
 
-<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2022).
+<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2023).
 <br> 
 **The Unequal Consequences of Job Loss across Countries.** <a href="{{ site.url }}/docs/JobDisplacement_AcrossEurope.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> Forthcoming, _American Economic Review: Insights_ </sub> <br>
@@ -49,7 +49,7 @@ We study how labor rigidities affect firms' responses to credit shocks. Using no
 
 </details>
 <br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://sites.google.com/view/lucamazzone/home"> Mazzone, Luca</a> (2022).  
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2022).  
 **A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Part of the VisitInps project. </sub>
 
