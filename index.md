@@ -34,9 +34,21 @@ We document the consequences of losing a job across countries using a harmonized
 ---
 ## Working Papers
 
+
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2022).  
+**A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Part of the VisitInps project. </sub>
+<br> <sub>NEW VERSION!</sub> 
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+This paper contributes a new framework to account for the interactions between labor market sorting and business cycle fluctuations.  We propose a tractable search equilibrium model of the labor market with aggregate risk, firm and worker heterogeneity, life-cycle dynamics and endogenous human capital accumulation. The model is estimated using Italian administrative matched employer-employee data. We show that sorting of workers to firms is a key factor in explaining the increased persistence of fluctuations, directly relating labor reallocation to economic hysteresis. Changes in the cross sectional distribution of worker and firm characteristics explain why "double dips" can be more painful than isolated recessions. Finally, the model can be used to account for the increased length of recessions in recent decades.  
+
+</details>
+<br>
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2022).  
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS_full.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
-<br> <sub>NEW VERSION!</sub> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
 <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 <br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
@@ -47,17 +59,7 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 We study how labor rigidities affect firms' responses to credit shocks. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, a short-term credit supply shock leads to a decrease in firms' employment and size and to a greater probability of exit, but the effects are concentrated on firms deriving greater value added from labor within their industries. Second, this exposure to liquidity risk stems from exposure to high-skill workers' compensation: the shock disproportionately affects productive firms with a high-skilled specialized labor force that requires greater investment in on-the-job training. Third, given labor costs exposure, productivity does not attenuate the effects of credit shocks. Our findings suggest that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
 
 </details>
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2022).  
-**A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Part of the VisitInps project. </sub>
 
-<details>
-<summary><b> Abstract. </b></summary>
-
-What are the long-run consequences of business cycle fluctuations for the skill distribution in the labor force? How is the sorting between firms and workers altered by aggregate fluctuations at different stages of the working life? And finally, what are the aggregate effects of changes in sorting for earnings dynamics, potential productivity and labor misallocation in the long run? We address these questions by proposing a tractable search equilibrium model of the labor market with aggregate risk, firm and worker heterogeneity, life-cycle dynamics and endogenous human capital accumulation. We show that sorting of workers to firms is a key factor in increasing the persistence of fluctuations, directly relating labor reallocation to economic hysteresis. We estimate the model on Italian administrative matched employer-employee data. Our estimates highlight the long term supply-side hysteresis effects of business cycle.
-
-</details>
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
 **Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
