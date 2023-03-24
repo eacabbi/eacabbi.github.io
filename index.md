@@ -38,12 +38,12 @@ We document the consequences of losing a job across countries using a harmonized
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2022).  
 **A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Part of the VisitInps project. </sub>
-<br> <sub>NEW VERSION!</sub> 
+<br> <sub>NEW VERSION! (March 2023)</sub> 
 
 <details>
 <summary><b> Abstract. </b></summary>
 
-This paper provides a new framework to evaluate the interactions between labor market sorting and business cycle fluctuations.  We estimate a tractable  search equilibrium model with firm and worker heterogeneity, aggregate risk, and life-cycle dynamics, using Italian matched employer-employee data. The model permits a deep understanding how distributional channels affect business cycles by accounting for the constant changes in worker-firm assignment due to match-dependent human capital accumulation and search on the job. We show that show that distortions in human capital accumulation and worker-firm sorting contribute significantly to the persistent effects of business cycles, resulting in economic hysteresis.  Fluctuations have substantial welfare effects, with significant heterogeneity along the earnings distribution. Output exhibits a considerable degree of state dependence, with features from the labor compensation distribution being key predictors of the severity of downturns. Finally, our model is able to account for the increased length of recessions in recent decades.
+Labor market sorting substantially changes  across the business cycle, increasing inefficient mismatches. This paper proposes a new framework to analyze the interactions between labor market sorting and business cycle fluctuations. Using Italian administrative data, we estimate a tractable search equilibrium model that considers firm and worker heterogeneity, aggregate risk, and life-cycle dynamics. We jointly account for endogenous changes in match-dependent human capital accumulation and worker-firm assignment. We show that distortions in human capital accumulation and worker-firm sorting caused by aggregate fluctuations contribute significantly to the persistent effects of business cycles, resulting in economic hysteresis. Aggregate fluctuations have substantial welfare effects, with significant heterogeneity along the earnings, skill, and age distribution. We also find that features of the labor compensation distribution are key predictors of the severity of downturns. Finally, our model is able to account for the increased length of recessions in recent decades.
 
 </details>
 <br>
