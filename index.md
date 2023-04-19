@@ -18,7 +18,7 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 
 ## Publications
 
-<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2023).
+<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> September 2023.
 <br> 
 **The Unequal Consequences of Job Loss across Countries.** <a href="{{ site.url }}/docs/JobDisplacement_AcrossEurope.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> Forthcoming, _American Economic Review: Insights_ </sub> <br>
@@ -35,6 +35,21 @@ We document the consequences of losing a job across countries using a harmonized
 ## Working Papers
 
 
+Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2023).  
+**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
+<br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
+<br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
+<br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
+<br> <sub>NEW VERSION! (April 2023)</sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+We study how labor rigidities affect firms' responses to credit shocks. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, a short-term credit supply shock leads to a decrease in firms' employment and size and to a greater probability of exit, but the effects are concentrated on firms deriving greater value added from labor within their industries. Second, this exposure to liquidity risk stems from exposure to high-skill workers' compensation: the shock disproportionately affects productive firms with a high-skilled specialized labor force that requires greater investment in on-the-job training. Third, given labor costs exposure, productivity does not attenuate the effects of credit shocks. Our findings suggest that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
+
+</details>
+<br>
+
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
 **A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/AAM_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Part of the VisitInps project. </sub>
@@ -48,18 +63,7 @@ Labor market sorting substantially changes  across the business cycle, increasin
 
 </details>
 <br>
-Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2023).  
-**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS_full.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
-<br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
-<br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
-<br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
 
-<details>
-<summary><b> Abstract. </b></summary>
-
-We study how labor rigidities affect firms' responses to credit shocks. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, a short-term credit supply shock leads to a decrease in firms' employment and size and to a greater probability of exit, but the effects are concentrated on firms deriving greater value added from labor within their industries. Second, this exposure to liquidity risk stems from exposure to high-skill workers' compensation: the shock disproportionately affects productive firms with a high-skilled specialized labor force that requires greater investment in on-the-job training. Third, given labor costs exposure, productivity does not attenuate the effects of credit shocks. Our findings suggest that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
-
-</details>
 
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
