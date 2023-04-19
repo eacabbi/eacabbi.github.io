@@ -34,7 +34,6 @@ We document the consequences of losing a job across countries using a harmonized
 ---
 ## Working Papers
 
-
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2023).  
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
@@ -48,8 +47,8 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 We study how labor rigidities affect firms' responses to credit shocks. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, a short-term credit supply shock leads to a decrease in firms' employment and size and to a greater probability of exit, but the effects are concentrated on firms deriving greater value added from labor within their industries. Second, this exposure to liquidity risk stems from exposure to high-skill workers' compensation: the shock disproportionately affects productive firms with a high-skilled specialized labor force that requires greater investment in on-the-job training. Third, given labor costs exposure, productivity does not attenuate the effects of credit shocks. Our findings suggest that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
 
 </details>
-<br>
 
+<br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
 **A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/AAM_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Part of the VisitInps project. </sub>
@@ -62,8 +61,6 @@ Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> a
 Labor market sorting substantially changes  across the business cycle, increasing inefficient mismatches. This paper proposes a new framework to analyze the interactions between labor market sorting and business cycle fluctuations. Using Italian administrative data, we estimate a tractable search equilibrium model that considers firm and worker heterogeneity, aggregate risk, and life-cycle dynamics. We jointly account for endogenous changes in match-dependent human capital accumulation and worker-firm assignment. We show that distortions in human capital accumulation and worker-firm sorting caused by aggregate fluctuations contribute significantly to the persistent effects of business cycles, resulting in economic hysteresis. Aggregate fluctuations have substantial welfare effects, with significant heterogeneity along the earnings, skill, and age distribution. We also find that features of the labor compensation distribution are key predictors of the severity of downturns. Finally, our model is able to account for the increased length of recessions in recent decades.
 
 </details>
-<br>
-
 
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
@@ -76,6 +73,7 @@ Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a
 Rigidities in firms' payroll structures are likely to increase the transmission of shocks to firms' cash flows and profitability. By using Italian administrative data on workers careers and firms’ balance sheets, we study how the use of permanent and fixed-term labor contracts affects this pass-through. We document how firms use the contract composition of their workforce to manage the risk determined by their labor-induced operating leverage. First, we confirm that a higher labor share is associated with more volatile cash flows following unexpected real shocks, a telling indication of operating leverage at work through labor costs. Second, we show that firms with a greater share of temporary contracts are characterized by a smoother time-series behavior of their cash-flows. In particular, the smoothing effect is stronger for firms with higher labor share related to the permanent workforce. We complement this analysis with the study of the 2001 labor market reform that lifted constraints on the employment of temporary contracts. Exploiting the staggered implementation of the reform across different collective bargaining agreements, we show that following the reform firms increased on average their share of temporary contracts and decreased average labor compensation. In particular, earlier transition to a more flexible workforce composition led to a 1 percentage point increase in profit margins (against a -1.6pp average variation around the event) and a 5 percent decrease in cross-sectional standard deviation of profits, but only among firms with an ex-ante more rigid labor cost structure.
 
 </details>
+
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2022).
 <br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="https://drive.google.com/file/d/0ByQcl7SXliImeEpMdGUtS3RGLXM/view?resourcekey=0-Mykokld7CQ4laxKSZWXmow" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
@@ -84,6 +82,3 @@ Rigidities in firms' payroll structures are likely to increase the transmission 
 <summary><b> Abstract. </b></summary>
 What happens to firms’ organizational structure when they are hit by a negative shock? By matching employer-employee data with firm loans and bank balance sheets, we study firms’ reactions to a credit shock–the global financial crisis—and compare it to a trade shock—the entry of China in the WTO. When hit by a credit supply shock, firms reduce employment of higher-skilled workers more than lower-skilled production workers, while no adjustment is found on the wages. In contrast, a trade shock affects the hierarchy of the firm from the bottom to the top: firms rescale the organization and reduce employment at all levels. Results support the existence of heterogenous complementarities between working capital and skills along the hierarchy of the firm. Abstracting from general equilibrium effects, we find that firms’ organization is a key channel in the transmission of credit shocks to the real economy.
 </details>
-
-<br>
-
