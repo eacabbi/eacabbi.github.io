@@ -36,6 +36,19 @@ We document the consequences of losing a job across countries using a harmonized
 ---
 ## Working Papers
 
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
+**A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/AAM_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Part of the VisitInps project. </sub>
+<br> <sub>NEW VERSION! (August 2023)</sub> 
+
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+Labor market sorting substantially changes  across the business cycle, increasing inefficient mismatches. This paper proposes a new framework to analyze the interactions between labor market sorting and business cycle fluctuations. Using Italian administrative data, we estimate a tractable search equilibrium model that considers firm and worker heterogeneity, aggregate risk, and life-cycle dynamics. We jointly account for endogenous changes in match-dependent human capital accumulation and worker-firm assignment. We show that distortions in human capital accumulation and worker-firm sorting caused by aggregate fluctuations contribute significantly to the persistent effects of business cycles, resulting in economic hysteresis. Aggregate fluctuations have substantial welfare effects, with significant heterogeneity along the earnings, skill, and age distribution. We also find that features of the labor compensation distribution are key predictors of the severity of downturns. Finally, our model is able to account for the increased length of recessions in recent decades.
+
+</details>
+
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2023).  
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
@@ -47,20 +60,6 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 <summary><b> Abstract. </b></summary>
 
 We study how labor rigidities affect firms' responses to credit shocks. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, a short-term credit supply shock leads to a decrease in firms' employment and size and to a greater probability of exit, but the effects are concentrated on firms deriving greater value added from labor within their industries. Second, this exposure to liquidity risk stems from exposure to high-skill workers' compensation: the shock disproportionately affects productive firms with a high-skilled specialized labor force that requires greater investment in on-the-job training. Third, given labor costs exposure, productivity does not attenuate the effects of credit shocks. Our findings suggest that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
-
-</details>
-
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
-**A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/AAM_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Part of the VisitInps project. </sub>
-<br> <sub>NEW VERSION! (March 2023)</sub> 
-
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-Labor market sorting substantially changes  across the business cycle, increasing inefficient mismatches. This paper proposes a new framework to analyze the interactions between labor market sorting and business cycle fluctuations. Using Italian administrative data, we estimate a tractable search equilibrium model that considers firm and worker heterogeneity, aggregate risk, and life-cycle dynamics. We jointly account for endogenous changes in match-dependent human capital accumulation and worker-firm assignment. We show that distortions in human capital accumulation and worker-firm sorting caused by aggregate fluctuations contribute significantly to the persistent effects of business cycles, resulting in economic hysteresis. Aggregate fluctuations have substantial welfare effects, with significant heterogeneity along the earnings, skill, and age distribution. We also find that features of the labor compensation distribution are key predictors of the severity of downturns. Finally, our model is able to account for the increased length of recessions in recent decades.
 
 </details>
 
