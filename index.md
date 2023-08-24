@@ -34,6 +34,7 @@ We document the consequences of losing a job across countries using a harmonized
 </details>
 
 ---
+
 ## Working Papers
 
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
