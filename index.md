@@ -2,6 +2,8 @@
 layout: home
 ---
 
+I am gong to spend the Fall 2023 at NOrthwestern University. Hit me up if you are around!
+
 ## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
 ## Academic positions
