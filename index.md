@@ -9,7 +9,7 @@ I am gong to spend the Fall 2023 at Northwestern University. Hit me up if you ar
 ## Academic positions
 
 Assistant Professor, Universidad Carlos III de Madrid (Sep. 2020 - )  
-Visiting Professor, Northwestern University (Fall 2022, Fall 2023)
+Visiting Scholar, Northwestern University (Fall 2022, Fall 2023)
 ## Education
 
 Ph.D. in Business Economics, Harvard University (Sep. 2014 - May 2020)  
@@ -94,3 +94,7 @@ ___
 ## Other writings
 
 <a href="https://www.ilfoglio.it/economia/2023/06/03/news/molti-elogi-ma-la-riforma-del-lavoro-spagnola-ha-tanti-limiti-5342083/"> <b><i>Molti elogi, ma la riforma del lavoro spagnola ha tanti limiti</i></b> </a>, with <a href = "https://sites.google.com/view/silviavannutelli/home"> Silvia Vannutelli</a>, June 3rd 2023, article for *Il Foglio*
+
+<div class="centered-image">
+  <img src="assets/ema.png" alt="Centered Image" width="300" height="300">
+</div>

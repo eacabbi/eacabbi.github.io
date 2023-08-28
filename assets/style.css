@@ -51,6 +51,12 @@ h3{
   flex: 1;
 }
 
+.section.right {
+  width: 55%; /* Adjust the width as needed */
+  display: flex;
+  align-items: center; /* Center image horizontally */
+}
+
 .left {
   text-align: left;
 }
@@ -65,11 +71,26 @@ h3{
 
 .avatar{
   padding-top: 30px;
-  width: 75%;
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  height: auto; /* Maintain aspect ratio */
+  margin-top: 50px; /* Add margin to move the image downwards */
 }
 
 #icon{
   text-decoration: none;
+}
+
+.centered-image {
+  text-align: center;
+  margin-top: 20px; /* Adjust as needed */
+  margin-bottom: 20px; /* Adjust as needed */
+}
+
+.centered-image img {
+  display: block;
+  margin: 0 auto; /* Center the image horizontally */
+  max-width: 100%;
+  height: auto;
 }
 
 /* Header settings */
