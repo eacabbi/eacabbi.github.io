@@ -39,7 +39,6 @@ We document the consequences of losing a job across countries using a harmonized
 
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
 **A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/AAM_additional.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-
 <br> <sub> Part of the VisitInps project. </sub>
 <br> <sub>NEW VERSION! (August 2023)</sub> 
 
