@@ -43,7 +43,6 @@ Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> a
 <br> <sub> Part of the VisitInps project. </sub>
 <br> <sub>NEW VERSION! (August 2023)</sub> 
 
-
 <details>
 <summary><b> Abstract. </b></summary>
 
