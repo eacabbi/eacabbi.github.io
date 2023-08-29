@@ -52,7 +52,7 @@ h3{
 }
 
 .section.right {
-  width: 55%; /* Adjust the width as needed */
+  width: 65%; /* Adjust the width as needed */
   display: flex;
   align-items: center; /* Center image horizontally */
 }
@@ -99,7 +99,7 @@ header {
   border-bottom: 1px solid gray;
   border-top: 3px solid black;
   padding: 10px;
-  text-color: white;
+  color: white;
   background-color: #001489;
 }
 
