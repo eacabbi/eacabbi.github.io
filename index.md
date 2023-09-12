@@ -20,7 +20,7 @@ B.A. in International Economics and Management, Bocconi University (Sep. 2007 - 
 
 ## Publications
 
-<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a>
+<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano </a>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a>
 <br> 
 **The Unequal Consequences of Job Loss across Countries.** <a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20220006" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> 2023, _American Economic Review: Insights_, Vol. 5, No. 3, pages 393-408 </sub> <br>
