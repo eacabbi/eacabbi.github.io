@@ -47,7 +47,7 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 <details>
 <summary><b> Abstract. </b></summary>
 
-We study how labor rigidities affect firms' responses to credit shocks. Using novel data on the universe of workers, firms, banks and credit in Portugal, we establish three main facts. First, a short-term credit supply shock leads to a decrease in firms' employment and size and to a greater probability of exit, but the effects are concentrated on firms deriving greater value added from labor within their industries. Second, this exposure to liquidity risk stems from exposure to high-skill workers' compensation: the shock disproportionately affects productive firms with a high-skilled specialized labor force that requires greater investment in on-the-job training. Third, given labor costs exposure, productivity does not attenuate the effects of credit shocks. Our findings suggest that labor rigidities are an important driver of the lack of productivity-enhancing reallocation throughout financial crises.
+We study how labor rigidities affect firms' responses to credit shocks. Using administrative data on workers, firms and banks in Portugal, we establish three results. First, a short-term credit supply shock leads to a decrease in firms' employment and a greater probability of exit, but effects are concentrated in firms deriving greater value added from labor. Second, the shock disproportionately affects productive firms with a highly-skilled labor force, requiring greater investment in on-the-job training. Third, high firm productivity does not attenuate the effects of credit shocks. Our findings indicate that labor rigidities hinder productivity-enhancing reallocation throughout financial crises.
 
 </details>
 
