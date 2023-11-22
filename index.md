@@ -66,6 +66,16 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 </details>
 
 <br>
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2023).
+<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub>NEW VERSION! (November 2023)</sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+What happens to firms’ organizational structure when they are hit by a negative shock? By matching employer-employee data with firm loans and bank balance sheets, we study firms’ reactions to a credit shock–the global financial crisis—and compare it to a trade shock—the entry of China in the WTO. When hit by a credit supply shock, firms reduce employment of higher-skilled workers more than lower-skilled production workers, while no adjustment is found on the wages. In contrast, a trade shock affects the hierarchy of the firm from the bottom to the top: firms rescale the organization and reduce employment at all levels. Results support the existence of heterogenous complementarities between working capital and skills along the hierarchy of the firm. Abstracting from general equilibrium effects, we find that firms’ organization is a key channel in the transmission of credit shocks to the real economy.
+</details>
+
+<br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
 **Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br><sub>Part of the VistInps project.</sub>
@@ -75,15 +85,6 @@ Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a
 
 Rigidities in firms' payroll structures are likely to increase the transmission of shocks to firms' cash flows and profitability. By using Italian administrative data on workers careers and firms’ balance sheets, we study how the use of permanent and fixed-term labor contracts affects this pass-through. We document how firms use the contract composition of their workforce to manage the risk determined by their labor-induced operating leverage. First, we confirm that a higher labor share is associated with more volatile cash flows following unexpected real shocks, a telling indication of operating leverage at work through labor costs. Second, we show that firms with a greater share of temporary contracts are characterized by a smoother time-series behavior of their cash-flows. In particular, the smoothing effect is stronger for firms with higher labor share related to the permanent workforce. We complement this analysis with the study of the 2001 labor market reform that lifted constraints on the employment of temporary contracts. Exploiting the staggered implementation of the reform across different collective bargaining agreements, we show that following the reform firms increased on average their share of temporary contracts and decreased average labor compensation. In particular, earlier transition to a more flexible workforce composition led to a 1 percentage point increase in profit margins (against a -1.6pp average variation around the event) and a 5 percent decrease in cross-sectional standard deviation of profits, but only among firms with an ex-ante more rigid labor cost structure.
 
-</details>
-
-<br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2022).
-<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="https://drive.google.com/file/d/0ByQcl7SXliImeEpMdGUtS3RGLXM/view?resourcekey=0-Mykokld7CQ4laxKSZWXmow" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-
-<details>
-<summary><b> Abstract. </b></summary>
-What happens to firms’ organizational structure when they are hit by a negative shock? By matching employer-employee data with firm loans and bank balance sheets, we study firms’ reactions to a credit shock–the global financial crisis—and compare it to a trade shock—the entry of China in the WTO. When hit by a credit supply shock, firms reduce employment of higher-skilled workers more than lower-skilled production workers, while no adjustment is found on the wages. In contrast, a trade shock affects the hierarchy of the firm from the bottom to the top: firms rescale the organization and reduce employment at all levels. Results support the existence of heterogenous complementarities between working capital and skills along the hierarchy of the firm. Abstracting from general equilibrium effects, we find that firms’ organization is a key channel in the transmission of credit shocks to the real economy.
 </details>
 
 ___
