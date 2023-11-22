@@ -72,8 +72,7 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 
 <details>
 <summary><b> Abstract. </b></summary>
-What happens to firms’ organizational structure when they are hit by a negative shock? By matching employer-employee data with firm loans and bank balance sheets, we study firms’ reactions to a credit shock–the global financial crisis—and compare it to a trade shock—the entry of China in the WTO. When hit by a credit supply shock, firms reduce employment of higher-skilled workers more than lower-skilled production workers, while no adjustment is found on the wages. In contrast, a trade shock affects the hierarchy of the firm from the bottom to the top: firms rescale the organization and reduce employment at all levels. Results support the existence of heterogenous complementarities between working capital and skills along the hierarchy of the firm. Abstracting from general equilibrium effects, we find that firms’ organization is a key channel in the transmission of credit shocks to the real economy.
-</details>
+We study the nexus between the organization of firm’s labor and firm credit. We use employer-employee data, firm loans and bank balance sheets to construct an instrument for firm’s credit supply based on firm-bank credit linkages. We conduct an event study and evaluate the importance of credit for the organization of firm’s labor. We show that firms reduce employment of skilled workers and we provide evidence of one possible channel. The re-organization of the firms’ labor structure is connected to the financing of machines and equipments: firms that invested in machines and equipments are more exposed to credit shortages and re-organize by reducing employment of both production workers and specialized workers that are complementary with machines.</details>
 
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
