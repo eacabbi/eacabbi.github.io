@@ -2,7 +2,7 @@
 layout: home
 ---
 
-I am going to spend the Fall 2023 at Northwestern University. Hit me up if you are around!
+I am going to visit <a href = "https://www.eief.it/eief/"> EIEF </a> for the month of January. Hit me up if you are around!
 
 ## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
