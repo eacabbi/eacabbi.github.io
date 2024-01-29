@@ -2,8 +2,6 @@
 layout: home
 ---
 
-I am going to visit <a href = "https://www.eief.it/eief/"> EIEF </a> for the month of January. Hit me up if you are around!
-
 ## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
 ## Academic positions
@@ -67,8 +65,7 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2023).
-<br> **Shocks and the organisation of the firm: who pays the bill?**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub>NEW VERSION! (November 2023)</sub>
+<br> **Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 
 <details>
 <summary><b> Abstract. </b></summary>
