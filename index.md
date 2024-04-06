@@ -6,8 +6,8 @@ layout: home
 
 ## Academic positions
 
-Assistant Professor, Universidad Carlos III de Madrid (Sept. 2020 - )  
-Associate Faculty, CEMFI (Sept. 2024 - ) 
+Assistant Professor, Universidad Carlos III de Madrid (Sept. 2020 - ) <br>
+Associate Faculty, CEMFI (Sept. 2024 - ) <br>
 Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
 
 ## Education
