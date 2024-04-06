@@ -6,13 +6,15 @@ layout: home
 
 ## Academic positions
 
-Assistant Professor, Universidad Carlos III de Madrid (Sep. 2020 - )  
-Visiting Scholar, Northwestern University (Fall 2022, Fall 2023)
+Assistant Professor, Universidad Carlos III de Madrid (Sept. 2020 - )  
+Associate Faculty, CEMFI (Sept. 2024 - ) 
+Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
+
 ## Education
 
-Ph.D. in Business Economics, Harvard University (Sep. 2014 - May 2020)  
-M.Sc. in Economics and Social Sciences, Bocconi University (Sep. 2010 - April 2013)  
-B.A. in International Economics and Management, Bocconi University (Sep. 2007 - Oct. 2010)  
+Ph.D. in Business Economics, Harvard University (Sept. 2014 - May 2020)  
+M.Sc. in Economics and Social Sciences, Bocconi University (Sept. 2010 - April 2013)  
+B.A. in International Economics and Management, Bocconi University (Sept. 2007 - Oct. 2010)  
 
 ---
 
