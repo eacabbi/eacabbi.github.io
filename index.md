@@ -38,40 +38,42 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
+**Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Part of the VisitInps project. </sub>
+<br> <sub>NEW VERSION! (April 2024)</sub> 
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 30% of cumulative output losses.
+
+</details>
+
+<br>
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2023).  
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
 <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 <br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
-<br> <sub>NEW VERSION! (September 2023)</sub>
+<br> <sub>NEW VERSION! (April 2024)</sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
 
-We study how labor rigidities affect firms' responses to credit shocks. Using administrative data on workers, firms and banks in Portugal, we establish three results. First, a short-term credit supply shock leads to a decrease in firms' employment and a greater probability of exit, but effects are concentrated in firms deriving greater value added from labor. Second, the shock disproportionately affects productive firms with a highly-skilled labor force, requiring greater investment in on-the-job training. Third, high firm productivity does not attenuate the effects of credit shocks. Our findings indicate that labor rigidities hinder productivity-enhancing reallocation throughout financial crises.
-
+We study how labor rigidities affect firms' responses to liquidity shocks. Using administrative data on workers, firms and banks in Portugal, we establish two key results. First, we show that the negative effects on employment and firm survival of an unexpected liquidity shock through a contraction in short-term credit are concentrated in firms deriving greater value added from labor. These firms tend to feature a higher-skill, less replaceable workforce, requiring greater investment in on-the-job training. Second, firm productivity does not mitigate the impact of liquidity shocks. Our findings suggest that labor rigidity impedes productivity-enhancing reallocation during financial crises.
 </details>
 
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2023).  
-**A Labor Market Sorting Model of Scarring and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/AAM_additional.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Part of the VisitInps project. </sub>
-<br> <sub>NEW VERSION! (August 2023)</sub> 
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-Evaluating the allocative effects of recessions is challenging due to the dynamic and jointly evolving distributions of workers and firms. Workers constantly gain or lose human capital, while the landscape of firms shifts with cyclical vacancy posting, entry and exit. We build a search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on the sorting of workers to firms. The framework allows us to account for how workers' skills and firms' distributions jointly vary with and in turn impact business cycles.  We estimate the model on administrative data and show that persistent negative effects on the productivity of worker-firm matches dominate cleansing effects, with distortions in sorting and human capital accumulation accounting for approximately 60% of cumulative output losses. Our model offers a rationale for the increased length of recessions and their heterogeneous welfare effects across age, income, and human capital distributions.
-
-</details>
 
 <br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2023).
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
 <br> **Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub>NEW VERSION! (April 2024)</sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
-We study the nexus between the organization of firm’s labor and firm credit. We use employer-employee data, firm loans and bank balance sheets to construct an instrument for firm’s credit supply based on firm-bank credit linkages. We conduct an event study and evaluate the importance of credit for the organization of firm’s labor. We show that firms reduce employment of skilled workers and we provide evidence of one possible channel. The re-organization of the firms’ labor structure is connected to the financing of machines and equipments: firms that invested in machines and equipments are more exposed to credit shortages and re-organize by reducing employment of both production workers and specialized workers that are complementary with machines.</details>
+We investigate how credit availability affects the organization of firms’ labor. We construct a firm- specific credit supply instrument derived from firm-bank credit linkages, and conduct an event study analyzing labor restructuring decisions within Portuguese firms. Our analysis uncovers a clear nexus between credit availability and labor adjustments. Specifically, firms that invest in machines and equip- ment are more sensitive to credit shortages. As a result, they tend to adjust their workforce by reducing the number of production and specialized workers closely associated with machine operations. These findings shed light on how credit dynamics shape labor decisions within firms, providing insights into aggregate responses to financial limitations.
+</details>
 
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
