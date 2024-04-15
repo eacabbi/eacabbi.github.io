@@ -72,7 +72,7 @@ We study how labor rigidities affect firms' responses to liquidity shocks. Using
 
 <details>
 <summary><b> Abstract. </b></summary>
-We investigate how credit availability affects the organization of firms’ labor. We construct a firm- specific credit supply instrument derived from firm-bank credit linkages, and conduct an event study analyzing labor restructuring decisions within Portuguese firms. Our analysis uncovers a clear nexus between credit availability and labor adjustments. Specifically, firms that invest in machines and equip- ment are more sensitive to credit shortages. As a result, they tend to adjust their workforce by reducing the number of production and specialized workers closely associated with machine operations. These findings shed light on how credit dynamics shape labor decisions within firms, providing insights into aggregate responses to financial limitations.
+We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
 </details>
 
 <br>
