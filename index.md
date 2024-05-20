@@ -67,7 +67,7 @@ We study how labor rigidities affect firms' responses to liquidity shocks. Using
 
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
-<br> **Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub>NEW VERSION! (April 2024)</sub>
 
 <details>
@@ -91,7 +91,7 @@ Rigidities in firms' payroll adjustment amplify the impact of aggregate fluctuat
 
 ## Work in progress
 
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta.
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta </a>.
 **Sorting of Entrepreneurial Temas.**
 
 ---
