@@ -87,7 +87,14 @@ Rigidities in firms' payroll adjustment amplify the impact of aggregate fluctuat
 
 </details>
 
-___
+---
+
+## Work in progress
+
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta.
+**Sorting of Entrepreneurial Temas.**
+
+---
 
 ## Other writings
 
