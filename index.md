@@ -21,8 +21,7 @@ B.A. in International Economics and Management, Bocconi University (Sept. 2007 -
 ## Publications
 
 <a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano </a>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a>
-<br> 
-**The Unequal Consequences of Job Loss across Countries.** <a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20220006" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+<br>**The Unequal Consequences of Job Loss across Countries.** <a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20220006" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> 2023, _American Economic Review: Insights_, Vol. 5, No. 3, pages 393-408 </sub> <br>
 <sub> NBER working paper version <a href="https://www.nber.org/papers/w29727" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub><br>
 <sub> Media Coverage: <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEu.org</a>, <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> and  <a href="https://theconversation.com/southern-european-workers-lose-more-than-their-jobs-when-they-are-laid-off-191002">The Conversation Global</a> in English, <a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">LaVoce.info</a> in Italian, <a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation España</a> in Spanish, <a href="https://research.pej.pt/2022/03/the-experience-of-losing-a-job-in-different-countries-in-europe/">Portuguese Economy Research Report</a> in English.</sub>
@@ -39,7 +38,7 @@ We document the consequences of losing a job across countries using a harmonized
 ## Working Papers
 
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
-**Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br>**Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Part of the VisitInps project. </sub>
 <br> <sub>NEW VERSION! (April 2024)</sub> 
 
@@ -52,7 +51,7 @@ Using administrative data, we document that workers acquire more human capital a
 
 <br>
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2023).  
-**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
+<br>**The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
 <br> <sub>Best paper on “Savings and Financing of the Portuguese Economy”, Office of Strategy and Studies (GEE) of the Portuguese Ministry of Economy and the Portuguese Association of Insurers (APS)</sub> 
 <br> <sub>Blog post about the paper (courtesy of <a href="http://www.thorstenbeck.com">Thorsten Beck</a>) <a href="http://www.thorstenbeck.com/108089829/6893607/posting/interesting-papers-april-2020" class="{{ site.link_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub>
 <br> <sub> Media coverage: <a href="https://research.pej.pt/2020/01/07/finance-and-labor-rigidity-in-portugal/">Portuguese Economy Research Report</a> in English.</sub>
@@ -67,7 +66,7 @@ We study how labor rigidities affect firms' responses to liquidity shocks. Using
 
 <br>
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
-**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br>**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub>NEW VERSION! (April 2024)</sub>
 
 <details>
@@ -77,7 +76,7 @@ We investigate how credit availability affects the organization of firms’ labo
 
 <br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
-**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br>**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br><sub>Part of the VistInps project. Old draft, new version coming soon! </sub>
 
 <details>
@@ -91,8 +90,8 @@ Rigidities in firms' payroll adjustment amplify the impact of aggregate fluctuat
 
 ## Work in progress
 
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta </a>.
-**Sorting of Entrepreneurial Temas.**
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a>.
+<br>**Sorting of Entrepreneurial Temas.**
 
 ---
 
