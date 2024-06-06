@@ -37,6 +37,16 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
+<br>**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Revise & Resubmit, _Journal of International Economics_ </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
+</details>
+
+<br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
 **Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Part of the VisitInps project. </sub>
@@ -61,17 +71,6 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 <summary><b> Abstract. </b></summary>
 
 We study how labor rigidities affect firms' responses to liquidity shocks. Using administrative data on workers, firms and banks in Portugal, we establish two key results. First, we show that the negative effects on employment and firm survival of an unexpected liquidity shock through a contraction in short-term credit are concentrated in firms deriving greater value added from labor. These firms tend to feature a higher-skill, less replaceable workforce, requiring greater investment in on-the-job training. Second, firm productivity does not mitigate the impact of liquidity shocks. Our findings suggest that labor rigidity impedes productivity-enhancing reallocation during financial crises.
-</details>
-
-
-<br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
-<br>**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub>NEW VERSION! (April 2024)</sub>
-
-<details>
-<summary><b> Abstract. </b></summary>
-We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
 </details>
 
 <br>
