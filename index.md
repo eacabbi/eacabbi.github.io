@@ -47,7 +47,9 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 
 <details>
 <summary><b> Abstract. </b></summary>
+
 We study how labor rigidities affect firms' responses to liquidity shocks. Using administrative data on workers, firms and banks in Portugal, we establish two key results. First, we show that the negative effects on employment and firm survival of an unexpected liquidity shock through a contraction in short-term credit are concentrated in firms deriving greater value added from labor. These firms tend to feature a higher-skill, less replaceable workforce, requiring greater investment in on-the-job training. Second, firm productivity does not mitigate the impact of liquidity shocks. Our findings suggest that labor rigidity impedes productivity-enhancing reallocation during financial crises.
+
 </details>
 
 <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
@@ -56,7 +58,9 @@ We study how labor rigidities affect firms' responses to liquidity shocks. Using
 
 <details>
 <summary><b> Abstract. </b></summary>
+
 We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
+
 </details>
 
 <br>
