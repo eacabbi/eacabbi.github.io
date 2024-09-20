@@ -40,6 +40,19 @@ We document the consequences of losing a job across countries using a harmonized
 ## Working Papers
 
 <br>
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
+**Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
+<br> <sub> Part of the VisitInps project. </sub> 
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 30% of cumulative output losses.
+
+</details>
+
+<br>
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2024).  
 **Labor Rigidities and Firms' Resilience to Liquidity Shocks** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Revise & Resubmit, _Management Science_ </sub>
@@ -61,19 +74,6 @@ We study how labor rigidities affect firms' responses to liquidity shocks. Using
 <summary><b> Abstract. </b></summary>
 
 We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
-
-</details>
-
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
-**Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Part of the VisitInps project. </sub>
-<br> <sub>NEW VERSION! (April 2024)</sub> 
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 30% of cumulative output losses.
 
 </details>
 
