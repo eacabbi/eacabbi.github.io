@@ -14,7 +14,7 @@ group :jekyll_plugins do
  gem "jekyll-seo-tag"
 end
 
-gem "webrick", "~> 1.7"
+# gem "webrick", "~> 1.7"
 gem "addressable", ">= 2.8.0"
 gem "rexml", ">= 3.2.5"
 gem "kramdown", ">= 2.3.1"
