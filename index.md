@@ -10,8 +10,6 @@ Assistant Professor, Universidad Carlos III de Madrid (Sept. 2020 - ) <br>
 Associate Faculty, CEMFI (Sept. 2024 - ) <br>
 Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
 
-I am currently visiting the Economics Department at Northwestern University, hit me up if around!
-
 ## Education
 
 Ph.D. in Business Economics, Harvard University (Sept. 2014 - May 2020)  
