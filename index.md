@@ -39,6 +39,18 @@ We document the consequences of losing a job across countries using a harmonized
 ## Working Papers
 
 <br>
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2024).
+<br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> New paper! </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+This paper studies how entrepreneurs sort into teams and how team entrepreneurship affects the equilibrium distribution of firms. Leveraging employer-employee administrative records matched with privately-held firms’ balance sheet data for Portugal, we show that firms of entrepreneurial teams have higher sales, productivity and survival rates than those owned by single entrepreneurs. We then exploit information on individuals’ careers before opening a firm to establish that there is a strong degree of sorting in entrepreneurial teams along observed and unobserved heterogeneity. A novel theory of career choices and team formation rationalizes why similarity in entrepreneurs’ overall talent and dissimilarity in their specialization lead to better firm outcomes, providing insights into the micro-foundations of firm growth.
+
+</details>
+
+<br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
 **Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
@@ -91,10 +103,6 @@ Rigidities in firms' payroll adjustment amplify the impact of aggregate fluctuat
 ---
 
 ## Work in progress
-
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a>.
-<br>**Sorting into Entrepreneurial Teams.**
 
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://www.bengriffy.com/"> Griffy, Ben</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a>, and <a href="https://sites.google.com/site/stanrabinovicheconomics/">Rabinovich, Stanislav</a>.
