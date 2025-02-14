@@ -39,7 +39,7 @@ We document the consequences of losing a job across countries using a harmonized
 ## Working Papers
 
 <br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2024).
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2025).
 <br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> New paper! </sub>
 
