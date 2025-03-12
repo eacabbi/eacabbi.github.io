@@ -2,7 +2,7 @@
 # Site settings
 name: eacabbi.github.io
 title: Edoardo Maria Acabbi
-description: Assistant Professor at UC3M.
+description: Assistant Professor of Economics at the University of Mannheim.
 repo: https://github.com/ildodo12/website
 url: https://eacabbi.github.io
 baseurl: /eacabbi.github.io
@@ -13,11 +13,11 @@ google-site-verification: EjDn9NB75Ybc73Rp6H3LzGkSFajoB4_PGmSHZUPYT3o
 author: Edoardo Maria Acabbi
 first_name: Edoardo Maria
 last_name: Acabbi
-university: Universidad Carlos III de Madrid
-department: Depto. de Economia de la Empresa
-address: C/Madrid 126, 28903 Getafe, ES
-office: Normante 6.0.23B
-email: eacabbi@emp.uc3m.es
+university: University of Mannheim
+department: Economics Department
+address: L 7. 3-5, 68161, Mannheim, Germany
+office: 
+email: 
 university2: Northwestern University
 department2: Economics Department
 address2: 2211 Campus Dr, 60208 Evanston IL, USA

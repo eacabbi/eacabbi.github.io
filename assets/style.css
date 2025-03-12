@@ -9,7 +9,7 @@ body {
 }
 
 a:link, a:visited {
-  color: #001489;
+  color: #13294B;
   text-decoration: none;
 }
 
@@ -100,7 +100,7 @@ header {
   border-top: 3px solid black;
   padding: 10px;
   color: white;
-  background-color: #001489;
+  background-color: #13294B;
 }
 
 #titlebar{
