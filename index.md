@@ -77,9 +77,9 @@ We study how labor rigidities affect firms' responses to liquidity shocks. Using
 </details>
 
 <br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2025).
 <br>**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Revise & Resubmit, _Journal of International Economics_ </sub>
+<br> <sub> Revise & Resubmit, 2nd round, _Journal of International Economics_ </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
