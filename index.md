@@ -7,7 +7,7 @@ layout: home
 ## Academic positions
 
 Assistant Professor of Economics (W1), tenure track, University of Mannheim (August 2025 - ) 
-Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025) <br>
+Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025, on leave) <br>
 Associate Faculty, CEMFI (Sept. 2024 - ) <br>
 Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
 
