@@ -6,8 +6,8 @@ layout: home
 
 ## Academic positions
 
-Assistant Professor of Economics (W1), tenure track, University of Mannheim (August 2025 - ) 
-Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025, on leave) <br>
+Assistant Professor of Economics (W1), tenure track, University of Mannheim (August 2025 - )
+Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025, on leave)
 Associate Faculty, CEMFI (Sept. 2024 - ) <br>
 Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
 
@@ -20,6 +20,18 @@ B.A. in International Economics and Management, Bocconi University (Sept. 2007 -
 ---
 
 ## Publications
+
+<br>
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2025).
+<br>**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Accepted, _Journal of International Economics_ </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
+
+</details>
 
 <br>
 <a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano </a>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a>
@@ -42,7 +54,7 @@ We document the consequences of losing a job across countries using a harmonized
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2025).
 <br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> New paper! </sub>
+<br> <sub> New Version!! (July 2025) </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
@@ -74,18 +86,6 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 <summary><b> Abstract. </b></summary>
 
 We study how labor rigidities affect firms' responses to liquidity shocks. Using administrative data on workers, firms and banks in Portugal, we establish two key results. First, we show that the negative effects on employment and firm survival of an unexpected liquidity shock through a contraction in short-term credit are concentrated in firms deriving greater value added from labor. These firms tend to feature a higher-skill, less replaceable workforce, requiring greater investment in on-the-job training. Second, firm productivity does not mitigate the impact of liquidity shocks. Our findings suggest that labor rigidity impedes productivity-enhancing reallocation during financial crises.
-
-</details>
-
-<br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2024).
-<br>**Credit and Firms' Organization**  <a href="{{ site.url }}/docs/SA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Revise & Resubmit, _Journal of International Economics_ </sub>
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-We investigate how credit availability affects the organization of firms’ labor. We construct an instrument for firm’s credit supply based on firm-bank credit linkages and conduct an event study on the decision to reorganize the labor force using data on Portuguese firms, workers and banks. We show that the reorganization of the firms’ labor structure is connected to the financing of machines and equipment: firms that invested in machines and equipment are more exposed to credit shortages and reorganize by reducing employment of production workers and specialized workers that are complementary with machines. These findings shed light on how credit dynamics shape labor decisions within firms, providing valuable insights into their behavior in response to financial limitations.
 
 </details>
 
