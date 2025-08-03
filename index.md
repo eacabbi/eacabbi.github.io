@@ -6,15 +6,15 @@ layout: home
 
 ## Academic positions
 
-Assistant Professor of Economics (W1), tenure track, University of Mannheim (August 2025 - )
-Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025, on leave)
+Assistant Professor of Economics (W1), tenure track, University of Mannheim (August 2025 - ) <br>
+Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025, on leave) <br>
 Associate Faculty, CEMFI (Sept. 2024 - ) <br>
 Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
 
 ## Education
 
-Ph.D. in Business Economics, Harvard University (Sept. 2014 - May 2020)  
-M.Sc. in Economics and Social Sciences, Bocconi University (Sept. 2010 - April 2013)  
+Ph.D. in Business Economics, Harvard University (Sept. 2014 - May 2020)  <br>
+M.Sc. in Economics and Social Sciences, Bocconi University (Sept. 2010 - April 2013)  <br>
 B.A. in International Economics and Management, Bocconi University (Sept. 2007 - Oct. 2010)  
 
 ---
