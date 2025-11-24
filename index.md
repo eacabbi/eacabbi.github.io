@@ -52,6 +52,17 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
+Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
+**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4698308" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br><sub>Part of the VistInps project. New version! (November 2025) </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+We test whether firms use flexible contracts to limit the effects of labor-induced operating leverage. Using Italian administrative data, we show that greater reliance on temporary contracts dampens the sensitivity of cash-flow and profit volatility to shocks, especially among high-labor-share firms. Exploiting a staggered liberalization of temporary contracts, we show that the rise in adoption led to decreasing labor compensation, and—among firms with initially rigid labor costs— to an increase in profit margins, a decrease in profit dispersion, and an expansion in debt capacity and investment. Contract mix is thus an active hedging margin shaping financial responses to shocks.
+
+</details>
+
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2025).
 <br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
@@ -87,18 +98,6 @@ Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panet
 <summary><b> Abstract. </b></summary>
 
 We study how labor rigidities affect firms' responses to liquidity shocks. Using administrative data on workers, firms and banks in Portugal, we establish two key results. First, we show that the negative effects on employment and firm survival of an unexpected liquidity shock through a contraction in short-term credit are concentrated in firms deriving greater value added from labor. These firms tend to feature a higher-skill, less replaceable workforce, requiring greater investment in on-the-job training. Second, firm productivity does not mitigate the impact of liquidity shocks. Our findings suggest that labor rigidity impedes productivity-enhancing reallocation during financial crises.
-
-</details>
-
-<br>
-Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
-**Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3768825" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br><sub>Part of the VistInps project. Old draft, new version coming soon! </sub>
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-Rigidities in firms' payroll adjustment amplify the impact of aggregate fluctuations on fundamentals. We analyze how firms use flexible contracts to decrease this pass-through. Leveraging unique Italian administrative data, we show that firms’ adoption of temporary contracts contributes to a reduction in their variability of cash flows and profits, particularly when their initial labor share is high. We then provide a causal identification of the effect for firms fundamental of a reform liberalizing the use of temporary contracts in 2001. We find that the liberalization of temporary contracts increased their adoption and led to a decline in average labor compensation. The reform translates into a substantial rise in profit margins and a reduction in the cross-sectional standard deviation of profits, but only among firms characterized by initially more rigid labor costs.
 
 </details>
 
