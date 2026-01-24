@@ -52,7 +52,7 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2026).  
 **The Collapse of Human Capital Ladders in Recessions.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
 <br> <sub> Part of the VisitInps project. </sub> 
