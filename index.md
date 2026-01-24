@@ -52,7 +52,7 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
-Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2021).  
+Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2025).  
 **Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4698308" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br><sub>Part of the VistInps project. New version! (November 2025) </sub>
 
@@ -77,14 +77,15 @@ This paper studies how entrepreneurs sort into teams and how team entrepreneursh
 
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
-**Human Capital Ladders, Cyclical Sorting, and Hysteresis.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+**The Collapse of Human Capital Ladders in Recessions.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
 <br> <sub> Part of the VisitInps project. </sub> 
+<br> <sub>Previously circulated as _"Human Capital Ladders, Cyclical Sorting, and Hysteresis."_</sub> 
 
 <details>
 <summary><b> Abstract. </b></summary>
 
-Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 30% of cumulative output losses.
+Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 35% of cumulative output losses.
 
 </details>
 
