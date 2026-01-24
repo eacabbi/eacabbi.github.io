@@ -52,6 +52,32 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
+**The Collapse of Human Capital Ladders in Recessions.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
+<br> <sub> Part of the VisitInps project. </sub> 
+<br> <sub>Previously circulated as _"Human Capital Ladders, Cyclical Sorting, and Hysteresis."_</sub> 
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 35% of cumulative output losses.
+
+</details>
+
+<br>
+Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2025).  
+**Labor Share and the Transmission of Liquidity Shocks** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> Revise & Resubmit, _Management Science_ </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+We examine how firms’ labor share shape their responses to sudden disruptions of short- term credit supply. Using administrative data on workers, firms and banks in Portugal and exploiting the 2008 global interbank market freeze as an exogenous contraction in bank short-term funding, we show that firms with higher labor share experience significantly larger employment losses and higher exit rates. To explain this heterogeneity, we examine how the labor share interacts with firms’ liquid resources. Firms with high labor share face front- loaded payroll commitments, which tighten short-term financing needs. Consistent with this mechanism, we find that the strongest responses arise among high-labor-share firms with limited working capital or cash per worker. These firms also employ more specialized workers, making labor adjustments more costly. Finally, the interaction of the credit shock with high labor share generates a non-cleansing pattern of reallocation: high-productivity firms with high labor share experience similarly large employment losses and exit rates as firms with lower productivity and high labor share. Overall, our findings demonstrate that the labor share is a central channel through which credit supply shocks propagate to real firm outcomes.
+
+</details>
+
+<br>
 Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a> (2025).  
 **Defusing Leverage: Liquidity Management and Labor Contracts.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4698308" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br><sub>Part of the VistInps project. New version! (November 2025) </sub>
@@ -72,33 +98,6 @@ Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <
 <summary><b> Abstract. </b></summary>
 
 This paper studies how entrepreneurs sort into teams and how team entrepreneurship affects the equilibrium distribution of firms. Leveraging employer-employee administrative records matched with privately-held firms’ balance sheet data for Portugal, we show that firms of entrepreneurial teams have higher sales, productivity and survival rates than those owned by single entrepreneurs. We then exploit information on individuals’ careers before opening a firm to establish that there is a strong degree of sorting in entrepreneurial teams along observed and unobserved heterogeneity. A novel theory of career choices and team formation rationalizes why similarity in entrepreneurs’ overall talent and dissimilarity in their specialization lead to better firm outcomes, providing insights into the micro-foundations of firm growth.
-
-</details>
-
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2024).  
-**The Collapse of Human Capital Ladders in Recessions.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
-<br> <sub> Part of the VisitInps project. </sub> 
-<br> <sub>Previously circulated as _"Human Capital Ladders, Cyclical Sorting, and Hysteresis."_</sub> 
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 35% of cumulative output losses.
-
-</details>
-
-<br>
-Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2024).  
-**Labor Rigidities and Firms' Resilience to Liquidity Shocks** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Online appendix <a href="{{ site.url }}/docs/APS_OA.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> Additional material <a href="{{ site.url }}/docs/APS_addendum.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Revise & Resubmit, _Management Science_ </sub>
-<br> <sub>Previously circulated as _"The Financial Channels of Labor Rigidities: Evidence from Portugal."_</sub> 
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-We study how labor rigidities affect firms' responses to liquidity shocks. Using administrative data on workers, firms and banks in Portugal, we establish two key results. First, we show that the negative effects on employment and firm survival of an unexpected liquidity shock through a contraction in short-term credit are concentrated in firms deriving greater value added from labor. These firms tend to feature a higher-skill, less replaceable workforce, requiring greater investment in on-the-job training. Second, firm productivity does not mitigate the impact of liquidity shocks. Our findings suggest that labor rigidity impedes productivity-enhancing reallocation during financial crises.
 
 </details>
 
