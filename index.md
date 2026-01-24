@@ -23,7 +23,7 @@ B.A. in International Economics and Management, Bocconi University (Sept. 2007 -
 ## Publications
 
 <br>
-<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M. (2025).
+<a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> and Acabbi, Edoardo M.
 <br>**Credit and Firms' Organization**  <a href="https://www.sciencedirect.com/science/article/pii/S0022199625001291?via%3Dihub" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> 2025, _Journal of International Economics_, Vol. 158, December </sub>
 
