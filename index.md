@@ -109,6 +109,10 @@ This paper studies how entrepreneurs sort into teams and how team entrepreneursh
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://www.bengriffy.com/"> Griffy, Ben</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a>, and <a href="https://sites.google.com/site/stanrabinovicheconomics/">Rabinovich, Stanislav</a>.
 <br>**The Optimal Design of Job Retention Schemes.**
 
+<br>
+Acabbi, Edoardo Maria, <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://francescodelprato.github.io/"> Del Prato, Francesco</a>.
+<br>**The Worker and Firm Components of Monopsony.**
+
 ---
 
 ## Other writings
