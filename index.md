@@ -52,6 +52,18 @@ We document the consequences of losing a job across countries using a harmonized
 
 ## Working Papers
 
+Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2026).
+<br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> New Version!! (April 2026) </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+This paper studies how entrepreneurs sort into founding teams and how team composition shapes the equilibrium distribution of firms. We develop a theory of career choice and team formation in which skill complementarities make team entrepreneurship attractive for agents with unbalanced skill profiles, while talent similarity makes teaming preferable to other outside options. Using matched employer-employee and balance-sheet data from Portugal, we show that teams combining similar talent with diverse specializations create larger, more productive, and longer-lived firms. We also document a bias in meetings toward similarly-skilled founders and calibrate the model to match this evidence. Meeting bias lowers average wages and output by $12\%$ and $13\%$ respectively by distributing activity towards a higher number of less productive firms, while search frictions \textit{per se} reduce wages and aggregate output by $15\%$ and $13\%$ respectively by preventing highly diverse but specialized individuals from forming successful teams.
+
+</details>
+
+<br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2026).  
 **The Collapse of Human Capital Ladders in Recessions.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
@@ -86,18 +98,6 @@ Acabbi, Edoardo M. and <a href="https://andrealati.github.io"> Alati, Andrea </a
 <summary><b> Abstract. </b></summary>
 
 We test whether firms use flexible contracts to limit the effects of labor-induced operating leverage. Using Italian administrative data, we show that greater reliance on temporary contracts dampens the sensitivity of cash-flow and profit volatility to shocks, especially among high-labor-share firms. Exploiting a staggered liberalization of temporary contracts, we show that the rise in adoption led to decreasing labor compensation, and—among firms with initially rigid labor costs— to an increase in profit margins, a decrease in profit dispersion, and an expansion in debt capacity and investment. Contract mix is thus an active hedging margin shaping financial responses to shocks.
-
-</details>
-
-<br>
-Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2025).
-<br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> New Version!! (July 2025) </sub>
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-This paper studies how entrepreneurs sort into teams and how team entrepreneurship affects the equilibrium distribution of firms. Leveraging employer-employee administrative records matched with privately-held firms’ balance sheet data for Portugal, we show that firms of entrepreneurial teams have higher sales, productivity and survival rates than those owned by single entrepreneurs. We then exploit information on individuals’ careers before opening a firm to establish that there is a strong degree of sorting in entrepreneurial teams along observed and unobserved heterogeneity. A novel theory of career choices and team formation rationalizes why similarity in entrepreneurs’ overall talent and dissimilarity in their specialization lead to better firm outcomes, providing insights into the micro-foundations of firm growth.
 
 </details>
 
