@@ -55,6 +55,7 @@ We document the consequences of losing a job across countries using a harmonized
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2026).
 <br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
 <br> <sub> New Version!! (April 2026) </sub>
+<br> <sub> CEPR working paper version <a href="https://cepr.org/publications/dp21393" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
