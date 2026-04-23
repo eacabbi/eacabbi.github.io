@@ -67,7 +67,7 @@ This paper studies how entrepreneurs sort into founding teams and how team compo
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> and <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> (2026).  
 **The Collapse of Human Capital Ladders in Recessions.** <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Revise & Resubmit, _American Economic Review_ </sub>
+<br> <sub> $2^{nd}$ round Revise & Resubmit, _American Economic Review_ </sub>
 <br> <sub> Part of the VisitInps project. New version! (Jan 2026)</sub> 
 <br> <sub>Previously circulated as _"Human Capital Ladders, Cyclical Sorting, and Hysteresis."_</sub> 
 
