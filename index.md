@@ -117,7 +117,7 @@ Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <
 
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://francescodelprato.github.io/"> Del Prato, Francesco</a>.
-<br>**The Worker and Firm Components of Monopsony.**
+<br>**Who Bears the Markdown?**
 
 ---
 
