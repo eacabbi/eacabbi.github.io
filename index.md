@@ -82,7 +82,7 @@ Using administrative data, we document that workers acquire more human capital a
 <br>
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2025).  
 **Labor Share and the Transmission of Liquidity Shocks** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> Revise & Resubmit, _Management Science_ </sub>
+<br> <sub> 2<sup>nd</sup> Revise & Resubmit, _Management Science_ </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
