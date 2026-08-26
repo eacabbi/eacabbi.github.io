@@ -55,13 +55,25 @@ We document the consequences of losing a job across countries using a harmonized
 
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a> and <a href="https://martamorazzoni.weebly.com/"> Morazzoni, Marta</a> (2026).
 <br>**Sorting into Entrepreneurial Teams.** <a href="{{ site.url }}/docs/AAMM_team.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> New Version!! (April 2026) </sub>
+<br> <sub> New Version!! (August 2026) </sub>
 <br> <sub> CEPR working paper version <a href="https://cepr.org/publications/dp21393" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> </sub>
 
 <details>
 <summary><b> Abstract. </b></summary>
 
-This paper studies how entrepreneurs sort into founding teams and how team composition shapes the equilibrium distribution of firms. We develop a theory of career choice and team formation in which skill complementarities make team entrepreneurship attractive for agents with unbalanced skill profiles, while talent similarity makes teaming preferable to other outside options. Using matched employer-employee and balance-sheet data from Portugal, we show that teams combining similar talent with diverse specializations create larger, more productive, and longer-lived firms. We also document a bias in meetings toward similarly-skilled founders and calibrate the model to match this evidence. Meeting bias lowers average wages and output by $12\%$ and $13\%$ respectively by distributing activity towards a higher number of less productive firms, while search frictions \textit{per se} reduce wages and aggregate output by $15\%$ and $13\%$ respectively by preventing highly diverse but specialized individuals from forming successful teams.
+This paper studies how entrepreneurs sort into founding teams and how team composition shapes the firm distribution. We develop a theory of career choice and team formation in which skill complementarities make team entrepreneurship attractive for agents with unbalanced skill profiles, while talent similarity makes teaming preferable to other career options. Using matched employer-employee and balance-sheet data from Portugal, we show that teams combining similar talent with diverse specializations create larger, more productive, and longer-lived firms; yet founders with dissimilar skills are less likely to start firms together. We calibrate the model to reproduce these patterns and use it to quantify the cost of imperfect founder matching. Counterfactuals show that reducing founders' biased exposure reallocates activity from low-productivity solo firms toward more productive teams. An optimal-assignment benchmark reveals that even unbiased random search leaves substantial gains unrealized because high-surplus matches fail to form.
+
+</details>
+
+<br>
+Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2026).  
+**Labor Share and the Transmission of Liquidity Shocks** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
+<br> <sub> 2<sup>nd</sup> Revise & Resubmit, _Management Science_ </sub>
+
+<details>
+<summary><b> Abstract. </b></summary>
+
+We examine how firms’ labor share shape their responses to sudden disruptions of short- term credit supply. Using administrative data on workers, firms and banks in Portugal and exploiting the 2008 global interbank market freeze as an exogenous contraction in bank short-term funding, we show that firms with higher labor share experience significantly larger employment losses and higher exit rates. To explain this heterogeneity, we examine how the labor share interacts with firms’ liquid resources. Firms with high labor share face front- loaded payroll commitments, which tighten short-term financing needs. Consistent with this mechanism, we find that the strongest responses arise among high-labor-share firms with limited working capital or cash per worker. These firms also employ more specialized workers, making labor adjustments more costly. Finally, the interaction of the credit shock with high labor share generates a non-cleansing pattern of reallocation: high-productivity firms with high labor share experience similarly large employment losses and exit rates as firms with lower productivity and high labor share. Overall, our findings demonstrate that the labor share is a central channel through which credit supply shocks propagate to real firm outcomes.
 
 </details>
 
@@ -76,18 +88,6 @@ Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea </a> a
 <summary><b> Abstract. </b></summary>
 
 Using administrative data, we document that workers acquire more human capital at more productive firms. Recessions distort workers-firm sorting, flatten the job ladder and impact human capital accumulation, as workers match on average to worse firms. To quantify the aggregate relevance of these effects, we build a directed search model with aggregate risk and worker-firm heterogeneity, in which human capital accumulation depends on firm quality. We estimate the model and show that recessions have persistent negative effects on the productivity of worker-firm matches, with distortions in sorting and human capital accumulation accounting for approximately 35% of cumulative output losses.
-
-</details>
-
-<br>
-Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2025).  
-**Labor Share and the Transmission of Liquidity Shocks** <a href="{{ site.url }}/docs/APS.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a>
-<br> <sub> 2<sup>nd</sup> Revise & Resubmit, _Management Science_ </sub>
-
-<details>
-<summary><b> Abstract. </b></summary>
-
-We examine how firms’ labor share shape their responses to sudden disruptions of short- term credit supply. Using administrative data on workers, firms and banks in Portugal and exploiting the 2008 global interbank market freeze as an exogenous contraction in bank short-term funding, we show that firms with higher labor share experience significantly larger employment losses and higher exit rates. To explain this heterogeneity, we examine how the labor share interacts with firms’ liquid resources. Firms with high labor share face front- loaded payroll commitments, which tighten short-term financing needs. Consistent with this mechanism, we find that the strongest responses arise among high-labor-share firms with limited working capital or cash per worker. These firms also employ more specialized workers, making labor adjustments more costly. Finally, the interaction of the credit shock with high labor share generates a non-cleansing pattern of reallocation: high-productivity firms with high labor share experience similarly large employment losses and exit rates as firms with lower productivity and high labor share. Overall, our findings demonstrate that the labor share is a central channel through which credit supply shocks propagate to real firm outcomes.
 
 </details>
 
