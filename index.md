@@ -7,10 +7,10 @@ layout: home
 ## Academic positions
 
 Assistant Professor of Economics (W1), tenure track, University of Mannheim (August 2025 - ) <br>
-Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025, on leave) <br>
 Senior Fellow, Microsoft AI Economy Institute (June 2026 - ) <br>
 Associate Researcher, CRC TR 224 EPoS (Sept. 2025 - ) <br>
-Associate Faculty, CEMFI (Sept. 2024 - ) <br>
+Assistant Professor of Finance, Universidad Carlos III de Madrid (Sept. 2020 - July 2025) <br>
+Associate Faculty, CEMFI (Sept. 2024 - Aug. 2026) <br>
 Visiting Scholar, Northwestern University (Fall 2022, Fall 2023, Fall 2024)
 
 ## Education
