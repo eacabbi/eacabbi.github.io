@@ -109,7 +109,7 @@ We test whether firms use flexible contracts to limit the effects of labor-induc
 
 <br>
 <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano</a>, <a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele</a>, <a href="https://www.ifau.se/en/About-IFAU/Personnel/phd-students/oona-tuominen/"> Tuominen, Oona</a>, Acabbi, Edoardo M., <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://www.marcoguidopalladino.com/"> Palladino, Marco Guido</a>, <a href="https://www.tobiasrenkin.com/"> Renkin, Tobias</a>, and <a href="https://sites.google.com/view/salvatore-lattanzio/home"> Lattanzio, Salvatore</a>.
-<br>**The Consequences of Labor Demand Shocks Across Countries.**
+<br>**Earnings Insurance Across Countries.**
 
 <br>
 Acabbi, Edoardo M., <a href="https://andrealati.github.io"> Alati, Andrea</a>, <a href="https://www.bengriffy.com/"> Griffy, Ben</a>, <a href="https://lucamazzone.github.io/"> Mazzone, Luca</a>, and <a href="https://sites.google.com/site/stanrabinovicheconomics/">Rabinovich, Stanislav</a>.
